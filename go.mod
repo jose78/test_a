@@ -1,4 +1,4 @@
-module chi
+module github.com/jose78/test_a
 
 go 1.20
 
